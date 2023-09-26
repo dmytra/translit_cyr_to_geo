@@ -5,7 +5,7 @@ Widget::Widget(QWidget *parent)
 {
     setupGui();
 
-    setWindowTitle("transliteration CYRilyk to GEOrgian");
+    setWindowTitle("transliteration  cyr_to_geo and geo_to_latin");
 }
 
 Widget::~Widget()
