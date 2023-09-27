@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Georgian_Range_10A0–10FF</file>
+        <file>Cyrillic_Range_0400–04FF</file>
+    </qresource>
+</RCC>
